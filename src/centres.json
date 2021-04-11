@@ -1,0 +1,334 @@
+[
+    {
+        "id": 1,
+        "name": "The Ibeno Beach",
+        "description": "A blissful destination for tourists stretched over 245km on a sand bank in Ibeno lies the Ibeno Beach, a little haven for leisure seekers. The roaring waves, spots for sunbathing, unpolluted foliage of the mangrove forest, cool breeze from the water and a lush surrounding give this destination an unimaginable allure for tourists.",
+        "town/city": "Ibeno",
+        "state": "Akwa Ibom",
+        "image_links": [
+            "https://hotels.ng/guides/wp-content/uploads/2020/01/Ibeno-Beach-Slide7.jpg",
+            "http://www.travelstart.com.ng/blog/wp-content/uploads/2015/01/IMG-20111014-00033.jpg"
+        ]
+    },
+    {
+        "id":2,
+        "name": "Obudu Cattle Ranch and Mountain Resort",
+        "description": "Above the sea level on the Oshie Ridge of the famous Sankwala Mountains sits majestically the Obudu Mountain Resort. The temperate climate, breathtaking views, idyllic tranquility and beautiful scenery has made this resort one of the famous tourists’ sites in Nigeria.",
+        "town/city": "Obudu",
+        "state": "Cross River",
+        "image_links": [
+            "https://media-cdn.tripadvisor.com/media/photo-s/03/24/2a/b9/obudu-mountain-resort.jpg",
+            "http://www.travelstart.com.ng/blog/wp-content/uploads/2014/02/Obudu-Cattle-Ranch1-780x585.jpg"
+        ]
+    },
+    {
+        "id":3,
+        "name": "Ngwo Pine Forest",
+        "description": "The unique forest dynasty that is found in Ngwo Pine is a huge draw for visitors, romantically set by Mother Nature with sharp twists for adventure seekers, beautifully set pine trees and gently flowing stream for lovers, and the loud splashing of the waters inside the dark cleft inside a cave would blow off one’s imagination.",
+        "town/city": "Ngwo",
+        "state": "Enugu",
+        "image_links": [
+            "https://www.cassiedaves.com/wp-content/uploads/2018/05/Ngwo-cave-and-waterfall-cassie-daves-blog-22.jpg",
+            "http://www.travelstart.com.ng/blog/wp-content/uploads/2015/01/Ngwo-Pine-780x585.jpg"
+        ]
+    },
+    {
+        "id":4,
+        "name": "Awhum Waterfall",
+        "description": "Awhum boasts of numerous immaculate lakes, waterfall and a monastery. The waterfall forms beautiful scenery where water cascades over its top forming a stream, which has become a religious tourist site. It is close to the Awhum Monastery.",
+        "town/city": "Awhum",
+        "state": "Enugu",
+        "image_links": [
+            "https://guardian.ng/wp-content/uploads/2017/05/enugu1.jpg",
+            "https://ibiene.com/wp-content/uploads/2020/09/images-11.jpeg"
+        ]
+    },
+    {
+        "id":5,
+        "name": "Arochukwu Long Juju Slave Route",
+        "description": "The sacred altar, a six foot gully that takes people to the temple and the waterfall in Arochukwu Long Juju Slave route, beg tourists to explore the shrine of Ibn Ukpabi and the cult momument of Kamula.",
+        "town/city": "Arochukwu",
+        "state": "Abia",
+        "image_links": [
+            "https://hometown.ng/wp-content/uploads/2017/06/long-juju-580x387.jpg",
+            "https://hometown.ng/wp-content/uploads/2017/06/51-580x387.jpg"
+        ]
+    },
+    {
+        "id":6,
+        "name": "The Giant Footprint of Ukhuse Oke",
+        "description": "In a sacred grove where prehistory meets the modern, between a village called Ukhuse-oke and Ukhuseosi lies this distinct footprints of a prehistoric giant that are embedded permanently on flat granite rocks.",
+        "town/city": "Owan",
+        "state": "Edo",
+        "image_links": [
+            "http://www.travelstart.com.ng/blog/wp-content/uploads/2015/01/Giant-Foot-of-Ukhuse-Oke.jpg",
+            "https://traveldiagram.com/wp-content/uploads/2020/07/The-Giant-Footprint-of-Ukhuse-Oke-600x487.jpg"
+        ]
+    },
+    {
+        "id":7,
+        "name": "Port Harcourt Tourist Beach",
+        "description": "If you are looking for a destination where you can run away from the bustling life of a city; one that is built on an artificial sand beach, Port Harcourt Tourist Beach is where you should be. It is a leisure hub along Kolabi Creek.",
+        "town/city": "Port Harcourt",
+        "state": "Rivers",
+        "image_links": [
+            "http://www.travelstart.com.ng/blog/wp-content/uploads/2014/10/Port-Harcourt-Tourist-Beach-780x582.jpeg",
+            "https://pbs.twimg.com/media/EYN5IVVXgAA9zJ0?format=jpg&name=small"
+        ]
+    },
+    {
+        "id":8,
+        "name": "Gashaki-Gumpti National Park",
+        "description": "A national park that offers a fascinating insight into life in medieval times in Nigeria is the Gashaki-Gumpti National Park. It is located within the Chappal Wadi, Mountain, Chappal Hendu and the Mountain of Wind. It is Nigeria’s largest and most diverse National Park.",
+        "town/city": "Gashaki-Gumpti",
+        "state": "Taraba",
+        "image_links": [
+            "http://www.travelstart.com.ng/blog/wp-content/uploads/2015/01/Gashaka-Gumti-National-Park-780x585.jpg",
+            "https://pbs.twimg.com/media/EYN4u_2WAAUiwR3?format=jpg"
+        ]
+    },
+    {
+        "id":9,
+        "name": "Alok Ikom Monoliths",
+        "description": "300 carved stones standing upright in circles, facing each others in groups with images and texts inscribed on the monoliths are how you would see Alok Ikom Monoliths (UNESCO World Heritage Site) that are in form of a phallus.",
+        "town/city": "Ikom",
+        "state": "Cross River",
+        "image_links": [
+            "https://africanrockart.britishmuseum.org/assets/images/site/NIGCRM0070021.jpg",
+            "https://pbs.twimg.com/media/EYN4OrgWkAAQ6u9?format=jpg"
+        ]
+    },
+    {
+        "id":10,
+        "name": "Isaac Boro Garden Park",
+        "description": "Isaac Boro Garden Park is situated opposite the Mile One Bridge along the Old GRA in Port Harcourt. Today, it has become a tourist location where baseball and softball are played and a center for trade fairs and live entertainment. The tomb of Major Isaac Boro, a soldier killed in the Nigeria Civil War lies here.",
+        "town/city": "Port Harcourt",
+        "state": "Rivers",
+        "image_links": [
+            "https://media.timbu.com/poi/432/img_20160420_094546.jpg-432-571741e2f0a51.jpg",
+            "https://pbs.twimg.com/media/EYN2B8qXYAEGKG7?format=jpg"
+        ]
+    },
+    {
+        "id":11,
+        "name": "The Tinapa Free Zone & Resort",
+        "description": "The charm of Calabar mingled with the taste of its rich culture gives Tinapa Free Zone & Resort that magnificent scenario that mesmerizes tourists. It has 860,000 sq ft lettable retail space, an entertainment strip that houses a digital cinema, restaurants, a mini amphitheater, casino, and children’s arcade, a Studio Tinapa for Nollywood, a night club and pubs",
+        "town/city": "Calabar",
+        "state": "Cross River",
+        "image_links": [
+            "http://www.travelstart.com.ng/blog/wp-content/uploads/2014/02/Tinapa-Business-And-Leisure-Resort-Cross-River-State.jpg",
+            "https://hotels.ng/guides/wp-content/uploads/2017/09/tinapa.jpg"
+        ]
+    },
+    {
+        "id":12,
+        "name": "Osun-Osogbo Grove",
+        "description": "This is the only tourist destination in Nigeria that has sacred shrines, sanctuaries, sculptures and art works that are created in the honour of the goddess of fertility, Osun. It is a UNESCO World Heritage Site situated along the Oshun River.",
+        "town/city": "Osogbo",
+        "state": "Osun",
+        "image_links": [
+            "http://www.travelstart.com.ng/blog/wp-content/uploads/2014/04/Osun-Osogbo-Grove-780x585.jpg",
+            "https://whc.unesco.org/uploads/thumbs/site_1118_0009-750-0-20121213164740.jpg"
+        ]
+    },
+    {
+        "id":13,
+        "name": "Sumu Wildlife Park",
+        "description": "Sumu Wildlife Park is a game reserve located in the Ganjuwa local government of Bauchi State. The reserve spans an area of about 82 square kilometers and was opened in 2006 as a partnership between Nigeria and the Namibian government. The Namibian government donated 100s of wildlife to the Bauchi state government, these animals were brought from different game reserves in Namibia to Bauchi and include giraffes, zebras, blue wildebeest, red hartebeest, oryx, kudu, springbok and common impala.",
+        "town/city": "Sumu",
+        "state": "Bauchi",
+        "image_links": [
+            "https://pbs.twimg.com/media/EWrc0DsXQAE7PC7?format=jpg&name=medium",
+            "https://www.visitnigerianow.com/wp-content/uploads/2018/09/Sumu-Wildlife-Park-Bauchi-visitnigerianow-6-670x440.jpg"
+        ]
+    },
+    {
+        "id":14,
+        "name": "Yankari National Park",
+        "description": "In Bauchi State is the 2,244 km2 Yankari National Park; a home to wildlife in the state’s South-Central part. It houses a lot of natural warm water springs and it is the one of West Africa’s eco-destinations.",
+        "town/city": "Mainamaji",
+        "state": "Bauchi",
+        "image_links": [
+            "https://www.visitnigerianow.com/wp-content/uploads/2018/01/Yankari-National-Park-Bauchi-visitnigerianow-10-1.jpg",
+            "https://www.visitnigerianow.com/wp-content/uploads/2018/01/Yankari-National-Park-Bauchi-visitnigerianow-6-670x414.jpg"
+        ]
+    },
+    {
+        "id":15,
+        "name": "Kainji National Park",
+        "description": "Kainji National Park was established in1978 which has 3 distinct sectors, the Borgu Game Reserve, the Zugurma Game Reserve and the Kainji Lake where fishing is prohibited. It is situated in Kwara and Niger State.",
+        "town/city": "New Bussa",
+        "state": "Niger & Kwara",
+        "image_links": [
+            "https://www.nta.ng/wp-content/uploads/2016/10/kainji1.jpg",
+            "https://tribuneonlineng.com/wp-content/uploads/2018/07/kainj-lake.jpg"
+        ]
+    },
+    {
+        "id":16,
+        "name": "Oban Hills",
+        "description": "Korup National Park of Cameroon shares a border with the Oban Hills. Home to a lot of wildlife and plants; and this is one of the few places on earth you can find the Xavier’s Green Bull the Cassin’s Hawk eagle, Crested Guinea fowl, Bat Hawk and over 400 Chimpanzees lives here.",
+        "town/city": "Oban",
+        "state": "Cross River",
+        "image_links": [
+            "https://i0.wp.com/www.momoafrica.com/wp-content/uploads/2017/06/Oban-Hills-Cross-River-State.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kwafalls.jpg/800px-Kwafalls.jpg"
+        ]
+    },
+    {
+        "id":17,
+        "name": "Lekki Conservation Center",
+        "description": "The center is a 190 acre conservation area in Lekki, Lagos. It was established in 1990 by Chevron for the Nigerian Conservation Foundation. It consists of various animal and plant species and is also home to the famous Lagos Canopy Walkway",
+        "town/city": "Lekki",
+        "state": "Lagos",
+        "image_links": [
+            "https://pbs.twimg.com/media/EWrfVLiWkAE2hqj?format=jpg",
+            "https://hotels.ng/guides/wp-content/uploads/2017/03/lekki-conservation-centre-OPARABOY.jpg"
+        ]
+    },
+    {
+        "id":18,
+        "name": "Oke-Idanre Hill",
+        "description": "A visit to the Oke-Idanre Hill gives a tourist access to a lot of spectacular valleys that are interspersed with inselbelgs and high plain about the sea level. It is a UNESCO World Heritage Site that has Omi Aopara; the thunder water, Agbooogun foot print, burial grounds, shrines and the Owa’s palace.",
+        "town/city": "Oke-Idanre",
+        "state": "Ondo",
+        "image_links": [
+            "http://www.travelstart.com.ng/blog/wp-content/uploads/2014/08/Idanre-Hills.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Idanre_Hills_%28Oke_Idanre%29.jpg/800px-Idanre_Hills_%28Oke_Idanre%29.jpg"
+        ]
+    },
+    {
+        "id":19,
+        "name": "Ogbunike Caves",
+        "description": "Ogbunike Caves make an idea tourists destination. These caves are closely associated with historical and spiritual significance. There are 317 steps that need to be used to descend down to the caves. It is a UNESCO Heritage Site.",
+        "town/city": "Ogbunike",
+        "state": "Anambra",
+        "image_links": [
+            "http://www.travelstart.com.ng/blog/wp-content/uploads/2014/08/ogbunike-cave-780x520.jpg",
+            "https://www.traveldigest.com.ng/media/k2/items/cache/ac0239369a9f7bffa6ab3e8391443ad3_XL.jpg"
+        ]
+    },
+    {
+        "id":20,
+        "name": "Olumo Rock",
+        "description": "Olumo Rock is located in the ancient city of Abeokuta, Ogun State. Historically, the rock was a natural fortress for the Egbas during inter-tribal warfare in the 19th century. It provided protection to the Egba people when they needed it, hide out cave during 19th century Egba war and is now held in high esteem by the members of the clan. The mountain, one of the most popular tourist destinations in Nigeria, sits in the heart of Abeokuta – a name which means “Under the rock” in the Yoruba language; it has a height of 137 metres above sea level.",
+        "town/city": "Abeokuta",
+        "state": "Ogun",
+        "image_links": [
+            "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6c/51/d3.jpg",
+            "https://cdn.face2faceafrica.com/www/wp-content/uploads/2015/09/Olumo_Rock.jpg"
+        ]
+    },
+    {
+        "id":21,
+        "name": "Wikki Warm Springs",
+        "description": "These warm springs are located within the Yankari National Park and Game Reserve in Bauchi state. The spring is a result of geothermal activity within the park and maintains a constant temperature of 32 degrees making it perfect for swimming.",
+        "town/city": "Bauchi",
+        "state": "Bauchi",
+        "image_links": [
+            "https://pbs.twimg.com/media/EWreTaAX0AAVAXK?format=jpg",
+            "https://pbs.twimg.com/media/EWreYErXYAEdj0p?format=jpg"
+        ]
+    },
+    {
+        "id":22,
+        "name": "Kajuru Castle",
+        "description": "Kajuru Castle is a medieval style castle located in Kaduna State. The castle was built by a German expatriate and was completed in 1989 taking over 8 years to build. It is a 45 minute drive from Kaduna and currently serves as a resort for tourists.",
+        "town/city": "Kaduna",
+        "state": "Kaduna",
+        "image_links": [
+            "https://pbs.twimg.com/media/EWrgEgXWkAEL179?format=jpg",
+            "https://pbs.twimg.com/media/EWrgNsMX0AAZOYQ?format=jpg"
+        ]
+    },
+    {
+        "id":23,
+        "name": "Gurara Falls",
+        "description": "This waterfall is one of the most popular tourism destinations in Nigeria and is the most popular waterfall attraction in the country. It is located in Niger State about two hours from Abuja. It is 30 ft in height and about 200 meters wide",
+        "town/city": "Gurara",
+        "state": "Niger",
+        "image_links": [
+            "https://guardian.ng/wp-content/uploads/2017/03/Gyrara-Waterfalls.jpg",
+            "https://pbs.twimg.com/media/EWrhOpsWsAIymwY?format=jpg"
+        ]
+    },
+    {
+        "id":24,
+        "name": "Coconut Beach",
+        "description": "No place tells the story of tourism fused with history like Badagry. It has breathtaking and beautiful ocean views, a perfect place for relaxation. 20 miles before you get to the Republic of Benin lies Coconut beach, and it is surrounded by a lot of coconut trees.",
+        "town/city": "Badagry",
+        "state": "Lagos",
+        "image_links": [
+            "http://www.travelstart.com.ng/blog/wp-content/uploads/2015/01/Coconut-Beach.jpg",
+            "https://hotels.ng/guides/wp-content/uploads/2017/07/Beach-shore-hotels.ng_.jpg"
+        ]
+    },
+    {
+        "id":25,
+        "name": "Owu Waterfall",
+        "description": "Located in Kwara State, Owu Waterfall is one of the tallest waterfalls in West Africa at a height of 120 meters with a 330 feet drop into an ice-cold pool below. It is one of Nigeria’s natural wonders as its existence is said to be untraceable.",
+        "town/city": "Owa Onire & Owa Kajola",
+        "state": "Kwara",
+        "image_links": [
+            "https://pbs.twimg.com/media/EWrfmxBXkAA_eOL?format=jpg&name=900x900",
+            "https://www.nigeriagalleria.com/Nigeria/States_Nigeria/Kwara/Images/Owu-Waterfall.jpg"
+        ]
+    },
+    {
+        "id":26,
+        "name": "Mafara Falls",
+        "description": "One of the stunning waterfalls in Nigeria is the Mafara Falls! It is situated in Rukuba, Bassa local government area council of Plateau State, Nigeria. The Mafara falls is an astounding incredible sight, the water fall is estimated to be at least 150 feet (ca. 46 m) deep. This is a notable tourist attraction. People visit the falls for picnicking, swimming and sight seeing. This is where individuals come to lighten and refresh their mood and make the most of their excursions here. ",
+        "town/city": "Rukuba",
+        "state": "Plateau",
+        "image_links": [
+            "https://res.6chcdn.feednews.com/assets/v2/f77f38ecf747963b4791ce58f696baaa?quality=uhq&format=webp&resize=720&watermark=false",
+            "https://pbs.twimg.com/media/EWrb5oUXsAAHl8R?format=jpg&name=large"
+        ]
+    },
+    {
+        "id":27,
+        "name": "Ancient Kano City Walls",
+        "description": "There are much more to the beautiful medieval city of Kano when you see the impressive ancient Kano walls (listed on the UNESCO World Heritage Sites’ tentative list) . This 14km radius earth monument has a spiritual, cultural and historical significance. It is 50ft(15m) tall",
+        "town/city": "Kano",
+        "state": "Kano",
+        "image_links": [
+            "http://www.travelstart.com.ng/blog/wp-content/uploads/2014/04/kano-city-wall-780x520.jpg",
+            "https://www.nigeriagalleria.com/Nigeria/States_Nigeria/Kano/Images/Kano-City-Wall.jpg"
+        ]
+    },
+    {
+        "id":28,
+        "name": "Bar Beach",
+        "description": "The Bar Beach is a beach on the Atlantic Ocean along the shorelines of Lagos, situated on Victoria Island.[1][2] For a while, it was the most popular beach in Nigeria especially when Lagos was the capital of the country.",
+        "town/city": "Victoria Island",
+        "state": "Lagos",
+        "image_links": [
+            "https://i0.wp.com/www.vanguardngr.com/wp-content/uploads/2012/08/beach-fun.jpg?w=412&ssl=1",
+            "https://www.lolaakinmade.com/wp-content/uploads/2015/08/DSC_3839.jpg"
+        ]
+    },
+    {
+        "id":29,
+        "name": "Abuja Arts And Crafts Village",
+        "description": "Abuja Arts and Crafts Village is located at the Central Business District in Abuja , behind the Silverbird Cinema. There are lots of artefacts and handicrafts here for visitors to see and even buy.",
+        "town/city": "Wuse",
+        "state": "Abuja",
+        "image_links": [
+            "https://i2.wp.com/media.premiumtimesng.com/wp-content/files/2017/07/IMG_2366.jpg",
+            "http://www.travelstart.com.ng/blog/wp-content/uploads/2015/01/DSCF1621.jpg"
+        ]
+    },
+    {
+        "id":30,
+        "name": "Millenium Park",
+        "description": "The Millennium Park is the largest public park in the capital city of Abuja. It is situated in the Maitama district. Her Majesty Queen Elizabeth II of the United Kingdom was the one who inaugurated the park that has become kids’ paradise and a relaxation haven.",
+        "town/city": "Maitama",
+        "state": "Abuja",
+        "image_links": [
+            "http://www.travelstart.com.ng/blog/wp-content/uploads/2014/10/millenium-park-abuja.jpg",
+            "https://hotels.ng/guides/wp-content/uploads/2017/08/park4.jpg"
+        ]
+    }
+
+
+]
