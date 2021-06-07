@@ -1,5 +1,7 @@
+from django.core import paginator
 from rest_framework import status
 from rest_framework.exceptions import NotFound
+from rest_framework.pagination import PageNumberPagination
 from rest_framework.response import Response
 from rest_framework.schemas import AutoSchema
 from rest_framework.views import APIView
@@ -14,7 +16,10 @@ import coreapi
 import json
 
 
+
+
 class StateList(APIView):
+
 
     schema = AutoSchema(
         manual_fields=[
@@ -28,7 +33,6 @@ class StateList(APIView):
 
     def get(self, request):
 
-        
         if request.GET.get('name', False):
             param = request.GET['name'].capitalize()
             obj = State()
@@ -36,8 +40,9 @@ class StateList(APIView):
         else:
             obj = State()  
             data = obj.getAll()
+
         if data:
-            return Response(data)
+            return self.get_paginated_response(data)
         else:
             return Response(data={'details':'No content was found'} , status=status.HTTP_204_NO_CONTENT)
 
