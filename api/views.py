@@ -20,8 +20,12 @@ import json
 
 class StateList(APIView, PageNumberPagination):
 
-    
+    """
+    List all states 
+    Get a particular state
+    """
 
+    # Schema for Swagger docs
     schema = AutoSchema(
         manual_fields=[
             coreapi.Field("name",
@@ -34,7 +38,7 @@ class StateList(APIView, PageNumberPagination):
 
     def get(self, request):
 
-        
+        # try to get the query parameter
         if request.GET.get('name', False):
             param = request.GET['name'].capitalize()
             obj = State()
@@ -49,6 +53,11 @@ class StateList(APIView, PageNumberPagination):
             return Response(data={'details':'No content was found'} , status=status.HTTP_204_NO_CONTENT)
 
 class CityList(APIView):
+
+    """
+    List all states 
+    Get a particular city or state
+    """
 
     schema = AutoSchema(
         manual_fields=[
@@ -77,6 +86,12 @@ class CityList(APIView):
            return Response(data={'details':'No content was found'}, status=status.HTTP_204_NO_CONTENT)
 
 class TouristCentreList(APIView):
+    
+    """
+    Get all tourist centres
+    Get a particular tourist centre
+    """
+
     schema = AutoSchema(
         manual_fields=[
             coreapi.Field("name",
