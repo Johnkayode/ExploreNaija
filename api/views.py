@@ -18,8 +18,9 @@ import json
 
 
 
-class StateList(APIView):
+class StateList(APIView, PageNumberPagination):
 
+    
 
     schema = AutoSchema(
         manual_fields=[
@@ -33,6 +34,7 @@ class StateList(APIView):
 
     def get(self, request):
 
+        
         if request.GET.get('name', False):
             param = request.GET['name'].capitalize()
             obj = State()
@@ -42,7 +44,7 @@ class StateList(APIView):
             data = obj.getAll()
 
         if data:
-            return self.get_paginated_response(data)
+            return Response(data)
         else:
             return Response(data={'details':'No content was found'} , status=status.HTTP_204_NO_CONTENT)
 
