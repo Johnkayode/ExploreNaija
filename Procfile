@@ -1,0 +1,1 @@
+web: gunicorn exploreNaija.wsgi:application --log-file -
