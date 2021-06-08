@@ -34,7 +34,7 @@ class TouristCentre:
     
     def getCentres(self, state=None, town=None):
         '''
-        returns all cities in a given stae
+        returns all cities in a given state
         '''
 
         centres = self.centres 

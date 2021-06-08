@@ -14,7 +14,7 @@ class State:
 
         states = list()
         for eachState in data:
-            state = {}
+            state = dict()
             state['id'] = eachState['state']['id']
             state['name'] = eachState['state']['name']
             state['capital'] = eachState['state']['capital']
