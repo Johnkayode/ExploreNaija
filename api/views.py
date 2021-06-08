@@ -83,7 +83,7 @@ class CityList(APIView):
         if data:
             return Response(data)
         else:
-           return Response(data={'details':'No content was found'}, status=status.HTTP_204_NO_CONTENT)
+            return Response({'details':'No content was found'}, status=status.HTTP_204_NO_CONTENT)
 
 class TouristCentreList(APIView):
     

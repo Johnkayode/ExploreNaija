@@ -1,11 +1,22 @@
 FROM python:3.9-alpine
 
+
+ENV PYTHONDONTWRITEBYTECODE 1
+
 ENV PYTHONBUFFERED 1
 
+###postgress dependencies
+RUN apk update \
+    && apk add postgresql-dev gcc python3-dev musl-dev
+
+
+##initialize the docker working directory
 RUN mkdir /exploreNaijaAPI
 
 WORKDIR /exploreNaijaAPI
 
-ADD . /exploreNaijaAPI
+COPY requirements.txt /exploreNaijaAPI
 
-RUN pip install -r requirements.txt
+RUN python -m pip install --no-cache-dir -r requirements.txt
+
+COPY . /exploreNaijaAPI
