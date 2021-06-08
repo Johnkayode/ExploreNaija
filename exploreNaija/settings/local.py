@@ -5,9 +5,9 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 
-SECRET_KEY =  ")h^+_i5s^h$6bim2)p%5we=!3@ob*958o)ttkc$$pdll8=%-t)"
+SECRET_KEY=")h^+_i5s^h$6bim2)p%5we=!3@ob*958o)ttkc$$pdll8=%-t)"
 
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = []
 
