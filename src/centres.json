@@ -452,14 +452,35 @@
     },
     {
         "id":42,
-        "name": "Yankari National Park",
-        "description": "Yankari National Park is a large wildlife park located in the south-central part of Bauchi State, in northeastern Nigeria. It covers an area of about 2,244 square kilometers (866 sq. mi) and is home to several natural warm water springs, as well as a wide variety of flora and fauna. Yankari was originally created as a game reserve in 1956, but later designated Nigeria's biggest national park in 1991.",
-        "town/city": "Yankari",
-        "state": "Bauchi",
+        "name": "Sir Lugard Empire Hill",
+        "description": "Sir Lugard Empire Hill is a 150 ft ground level hill, tourist and location of the Colonial Nigeria high frequency radio station that was installed by Sir Fredrick Lugard at Baro, Nigeria.",
+        "town/city": "Baro",
+        "state": "Niger",
+    },
+     {
+        "id":43,
+        "name": "New Afrika Shrine",
+        "description": "The New Afrika Shrine is an open air entertainment centre located in Ikeja, Lagos State. It serves as the host location of the annual Felabration music festival. It is the replacement of the old Afrika Shrine created in 1970 by Fela Kuti until it was burnt down in 1977.",
+        "town/city": "Ikeja",
+        "state": "Lagos",
         "image_links": [
-            "https://en.wikipedia.org/wiki/Yankari_National_Park#/media/File:Yankari_park.jpg",
-            "https://en.wikipedia.org/wiki/Yankari_National_Park#/media/File:Water_buck_(Kobus_ellipsiprymnus)_-Yankari_game_reserve,_Bauchi_State_(1).jpg"
+            "https://en.wikipedia.org/wiki/New_Afrika_Shrine#/media/File:Fela_New_Shrine,_Lagos_02.jpg",
+            "https://en.wikipedia.org/wiki/New_Afrika_Shrine#/media/File:Fela_New_Shrine,_Lagos_03.jpg"
         ]
+    },
+    {
+        "id":44,
+        "name": "Kanji National Park",
+        "description": "Kainji National Park is a national park in Niger State and Kwara State, Nigeria. Established in 1978, it covers an area of about 5,341 km2 (2,062 sq mi). The park includes three distinct sectors: a part of the Kainji Lake in which fishing is restricted, the Borgu Game Reserve to the west of the lake, and the Zugurma Game Reserve to the southeast.",
+        "town/city": "Mariga, Borgu",
+        "state": "Niger, Kebbi",
+        "image_links": [
+            "https://en.wikipedia.org/wiki/New_Afrika_Shrine#/media/File:Fela_New_Shrine,_Lagos_02.jpg",
+            "https://en.wikipedia.org/wiki/New_Afrika_Shrine#/media/File:Fela_New_Shrine,_Lagos_03.jpg"
+        ]
+    }
+    
+    
 
 
 ]
