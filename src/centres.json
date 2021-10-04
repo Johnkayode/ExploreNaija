@@ -438,7 +438,28 @@
             "https://lh5.googleusercontent.com/p/AF1QipPVygwSrUOFdzzqpI84WyK1AKJoDAEITb_nrMVa",
             "https://guardian.ng/wp-content/uploads/2018/10/Alexis-Galleries.jpg"
         ]
-    }
+    },
+    {
+        "id":41,
+        "name": "Ikogosi Warm Springs",
+        "description": "The Ikogosi Warm Springs is a tourist attraction located at Ikogosi, a town in Ekiti State, southwestern Nigeria. Flowing abreast the warm spring is another cold spring which meets the warm spring at a confluence, each maintaining its thermal properties.",
+        "town/city": "Ikogosi",
+        "state": "Ekiti",
+        "image_links": [
+            "https://en.wikipedia.org/wiki/Ikogosi_Warm_Springs#/media/File:Ikogosi_Warm_Spring,_Ekiti_State,_Nigeria_-_1.jpg",
+            "https://en.wikipedia.org/wiki/Ikogosi_Warm_Springs#/media/File:Ikogosi_Cold_and_Warm_Spring_Waterpath.jpg"
+        ]
+    },
+    {
+        "id":42,
+        "name": "Yankari National Park",
+        "description": "Yankari National Park is a large wildlife park located in the south-central part of Bauchi State, in northeastern Nigeria. It covers an area of about 2,244 square kilometers (866 sq. mi) and is home to several natural warm water springs, as well as a wide variety of flora and fauna. Yankari was originally created as a game reserve in 1956, but later designated Nigeria's biggest national park in 1991.",
+        "town/city": "Yankari",
+        "state": "Bauchi",
+        "image_links": [
+            "https://en.wikipedia.org/wiki/Yankari_National_Park#/media/File:Yankari_park.jpg",
+            "https://en.wikipedia.org/wiki/Yankari_National_Park#/media/File:Water_buck_(Kobus_ellipsiprymnus)_-Yankari_game_reserve,_Bauchi_State_(1).jpg"
+        ]
 
 
 ]
