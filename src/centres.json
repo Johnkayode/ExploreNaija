@@ -408,17 +408,6 @@
     },
     {
         "id":38,
-        "name": "Isaac Boro Park",
-        "description": "Isaac Boro Park is a public park and outdoor recreation area located along the Old GRA neighborhood of Rivers State capital, Port Harcourt. The park is named after Isaac Boro, who was one of the pioneers of minority rights activism in Nigeria.",
-        "town/city": "Old GRA",
-        "state": "Rivers",
-        "image_links": [
-            "https://www.whatsoninportharcourt.com/wp-content/uploads/2020/04/Isaac-Boro-Garden-Park.jpg",
-            "https://hotels.ng/guides/wp-content/uploads/2019/11/isaac2.jpg"
-        ]
-    },
-    {
-        "id":39,
         "name": "Freedom Park Lagos",
         "description": "Born out of the ruins of Her Majesty’s Broad Street Prisons, was reconstructed to preserve the history and cultural heritage of the Nigerian People. Freedom Park Lagos is a National Memorial, a Historical landamark, a Cultural site & an Arts and Recreation centre.",
         "town/city": "Lagos Island",
@@ -429,7 +418,7 @@
         ]
     },
     {
-        "id":40,
+        "id":39,
         "name": "Oron Museum",
         "description": "Oron Museum is a museum in Oron, Nigeria. The museum was established in 1958 to accommodate eight hundred known ancestral figures (Ekpu Oro) of the Oron people which are believed to be among the oldest and finest surviving wood carvings in Africa. During the civil war, many of the wood carvings were looted and the museum was severely damaged. In 1975, the museum was reinaugurated and today houses the remains of the wooden sculptures and other ethnographic materials from across Nigeria. The museum also has displays of bunkers used during the civil war as well as a crafts village.",
         "town/city": "Oron",
@@ -437,6 +426,17 @@
         "image_links": [
             "https://momaa.org/wp-content/uploads/2019/10/vllkyt6m9kfhs8r0v-1024x568.png",
             "https://hotels.ng/guides/wp-content/uploads/2019/12/Oron-museum.jpg"
+        ]
+    },
+    {
+        "id":40,
+        "name": "Alexis Galleries",
+        "description": "An exquisite Gallery situated in the heart of Victoria Island. With artists of all ages and price ranges from lowest to highest. An exhibition venue as well, crowned by Art Cafe Lagos (Listed).",
+        "town/city": "Victoria Island",
+        "state": "Lagos",
+        "image_links": [
+            "https://lh5.googleusercontent.com/p/AF1QipPVygwSrUOFdzzqpI84WyK1AKJoDAEITb_nrMVa",
+            "https://guardian.ng/wp-content/uploads/2018/10/Alexis-Galleries.jpg"
         ]
     }
 
