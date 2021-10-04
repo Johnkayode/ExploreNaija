@@ -328,6 +328,116 @@
             "http://www.travelstart.com.ng/blog/wp-content/uploads/2014/10/millenium-park-abuja.jpg",
             "https://hotels.ng/guides/wp-content/uploads/2017/08/park4.jpg"
         ]
+    },
+    {
+        "id":31,
+        "name": "Zuma Rock",
+        "description": "Zuma Rock is a large natural monolith, or inselberg, an igneous intrusion composed of gabbro and granodiorite, in Niger State, Nigeria. It is located immediately west of Nigeria's capital Abuja, along the main road from Abuja to Kaduna off Madala, and is sometimes referred to as the 'Gateway to Abuja from Suleja'.",
+        "town/city": "Niger",
+        "state": "Niger",
+        "image_links": [
+            "https://hotels.ng/guides/wp-content/uploads/2019/11/Zuma_Rock.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/a/a8/ZUMA_ROCK.jpg"
+        ]
+    },
+    {
+        "id":32,
+        "name": "Lekki Conservation Centre",
+        "description": "The Centre was established in 1990 to serve as biodiversity conservation icon and environment education centre. The facility was built by the Chevron Corporation for the Nigerian Conservation Foundation (NCF), as a reserved sanctuary for the rich flora and fauna of the Lekki Peninsula.",
+        "town/city": "Lekki",
+        "state": "Lagos",
+        "image_links": [
+            "https://hotels.ng/guides/wp-content/uploads/2017/03/lekki-1.jpg",
+            "https://lovinglagos.com/wp-content/uploads/2020/01/lcc-bg-1536x1024.jpg"
+        ] 
+    },
+    {
+        "id":33,
+        "name": "Gurara Waterfalls",
+        "description": "Gurara Waterfalls is located in Gurara, a local government area of Niger State, North Central Nigeria.[1] The waterfalls is approximately 30 metres in height and it lies on the Gurara River along the Suleja-Minna Road.",
+        "town/city": "Gurara",
+        "state": "Niger",
+        "image_links": [
+            "https://guardian.ng/wp-content/uploads/2017/03/Gyrara-Waterfalls.jpg",
+            "https://www.nigerianbulletin.com/data/attachments/63/63531-0795016b8e4c36f13e730231abed79a7.jpg"
+        ]
+    },
+    {
+        "id":34,
+        "name": "Oguta Lake",
+        "description": "Oguta Lake is a lean 'finger lake' formed by the damming of the lower Njaba River with alluvium.[2] It is the largest natural lake in Imo State, Southeastern Nigeria;[3] within the equatorial rainforest region of Niger Delta.",
+        "town/city": "Oguta",
+        "state": "Imo",
+        "image_links": [
+            "https://hotels.ng/guides/wp-content/uploads/2020/02/Oguta-Lake-Imo.jpg",
+            "https://www.touristspots.org/wp-content/uploads/2011/03/Oguta-Lake-Holiday-Complex-300x225.jpg"
+        ]
+    },
+    {
+        "id":35,
+        "name": "Agbokim Waterfalls",
+        "description": "Agbokim waterfalls are situated in the Etung local government area of Cross River State in south-eastern Nigeria, very close to its border with Cameroon. The waterfalls are about 15 kilometres (9.3 mi) from Ikom and 320 kilometres (200 mi) from Calabar.",
+        "town/city": "Etung",
+        "state": "Cross River",
+        "image_links": [
+            "https://hotels.ng/guides/wp-content/uploads/2017/08/agbokim-waterfall.jpg",
+            "https://img1.advisor.travel/541x225px-Agbokim_Waterfalls_2.jpg"
+        ]
+    },
+    {
+        "id":36,
+        "name": "National War Museum, Umuahia",
+        "description": "The National War Museum in Umuahia was established in 1985. The museum has a collection of objects of traditional and modern warfare. There are also outdoor displays of warships, military aircrafts, armoured tanks, and 'Ogbunigwe' (bombs produced locally by Biafra during the Nigerian Civil War).The relics of war are preserved and maintained by the National Commission for Museums and Monuments (NCMM).",
+        "town/city": "Umuahia",
+        "state": "Abia",
+        "image_links": [
+            "https://s3.ap-southeast-1.amazonaws.com/gounesco.com/wp-content/uploads/2018/02/11233305/museum-4.jpg",
+            "https://www.nigeriagalleria.com/Nigeria/States_Nigeria/Abia/Images/National-War-Museum-Umuahia.jpg"
+        ]
+    },
+    {
+        "id":37,
+        "name": "Farin Ruwa Falls",
+        "description": "Farin Ruwa Falls is a waterfall found in the central region of Nigeria. It is among the highest waterfalls in Nigeria. It is significant among Africa's falls when the total height covered by the waterfall is considered. The source of Farin Ruwa falls is found on the Nasarawa State, from whence it gushes down over the edge of the Nasarawa. During its descent from the Jos Plateau, the water drops a total height of about 150 metres (492 ft). This drop is higher compared to the more popular Victoria Falls, which drops a height of around 108 metres (354 ft) during its descent.",
+        "town/city": "Wamba",
+        "state": "Nasarawa",
+        "image_links": [
+            "https://media.timbu.com/poi/1019/farin-ruwa-waterfalls-SXugk7kCctBF2rdSQN76J9zIPISDYJjvHBtftnHv.jpeg?w=300?w=300",
+            "https://media.timbu.com/poi/1019/farin-ruwa-waterfalls-DFCj9R04zeO9Mjos4FQGGwJkcxE0AIaFNnvhyy4H.jpeg?w=300?w=300"
+        ]
+    },
+    {
+        "id":38,
+        "name": "Isaac Boro Park",
+        "description": "Isaac Boro Park is a public park and outdoor recreation area located along the Old GRA neighborhood of Rivers State capital, Port Harcourt. The park is named after Isaac Boro, who was one of the pioneers of minority rights activism in Nigeria.",
+        "town/city": "Old GRA",
+        "state": "Rivers",
+        "image_links": [
+            "https://www.whatsoninportharcourt.com/wp-content/uploads/2020/04/Isaac-Boro-Garden-Park.jpg",
+            "https://hotels.ng/guides/wp-content/uploads/2019/11/isaac2.jpg"
+        ]
+    },
+    {
+        "id":39,
+        "name": "Freedom Park Lagos",
+        "description": "Born out of the ruins of Her Majesty’s Broad Street Prisons, was reconstructed to preserve the history and cultural heritage of the Nigerian People. Freedom Park Lagos is a National Memorial, a Historical landamark, a Cultural site & an Arts and Recreation centre.",
+        "town/city": "Lagos Island",
+        "state": "Lagos",
+        "image_links": [
+            "https://guardian.ng/wp-content/uploads/2020/05/Freedom-Park-Lagos.-Photo-VisitNigeriaNow.jpg",
+            "https://fastlagos.com/wp-content/uploads/2020/03/Freedom-Park-Lagos-VisitNigeriaNow-2-640x440-1.jpg"
+        ]
+    },
+    {
+        "id":40,
+        "name": "Oron Museum",
+        "description": "Oron Museum is a museum in Oron, Nigeria. The museum was established in 1958 to accommodate eight hundred known ancestral figures (Ekpu Oro) of the Oron people which are believed to be among the oldest and finest surviving wood carvings in Africa. During the civil war, many of the wood carvings were looted and the museum was severely damaged. In 1975, the museum was reinaugurated and today houses the remains of the wooden sculptures and other ethnographic materials from across Nigeria. The museum also has displays of bunkers used during the civil war as well as a crafts village.",
+        "town/city": "Oron",
+        "state": "Akwa Ibom",
+        "image_links": [
+            "https://momaa.org/wp-content/uploads/2019/10/vllkyt6m9kfhs8r0v-1024x568.png",
+            "https://hotels.ng/guides/wp-content/uploads/2019/12/Oron-museum.jpg"
+        ]
     }
 
 
