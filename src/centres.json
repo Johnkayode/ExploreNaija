@@ -438,7 +438,49 @@
             "https://lh5.googleusercontent.com/p/AF1QipPVygwSrUOFdzzqpI84WyK1AKJoDAEITb_nrMVa",
             "https://guardian.ng/wp-content/uploads/2018/10/Alexis-Galleries.jpg"
         ]
+    },
+    {
+        "id":41,
+        "name": "Ikogosi Warm Springs",
+        "description": "The Ikogosi Warm Springs is a tourist attraction located at Ikogosi, a town in Ekiti State, southwestern Nigeria. Flowing abreast the warm spring is another cold spring which meets the warm spring at a confluence, each maintaining its thermal properties.",
+        "town/city": "Ikogosi",
+        "state": "Ekiti",
+        "image_links": [
+            "https://en.wikipedia.org/wiki/Ikogosi_Warm_Springs#/media/File:Ikogosi_Warm_Spring,_Ekiti_State,_Nigeria_-_1.jpg",
+            "https://en.wikipedia.org/wiki/Ikogosi_Warm_Springs#/media/File:Ikogosi_Cold_and_Warm_Spring_Waterpath.jpg"
+        ]
+    },
+    {
+        "id":42,
+        "name": "Sir Lugard Empire Hill",
+        "description": "Sir Lugard Empire Hill is a 150 ft ground level hill, tourist and location of the Colonial Nigeria high frequency radio station that was installed by Sir Fredrick Lugard at Baro, Nigeria.",
+        "town/city": "Baro",
+        "state": "Niger",
+    },
+     {
+        "id":43,
+        "name": "New Afrika Shrine",
+        "description": "The New Afrika Shrine is an open air entertainment centre located in Ikeja, Lagos State. It serves as the host location of the annual Felabration music festival. It is the replacement of the old Afrika Shrine created in 1970 by Fela Kuti until it was burnt down in 1977.",
+        "town/city": "Ikeja",
+        "state": "Lagos",
+        "image_links": [
+            "https://en.wikipedia.org/wiki/New_Afrika_Shrine#/media/File:Fela_New_Shrine,_Lagos_02.jpg",
+            "https://en.wikipedia.org/wiki/New_Afrika_Shrine#/media/File:Fela_New_Shrine,_Lagos_03.jpg"
+        ]
+    },
+    {
+        "id":44,
+        "name": "Kanji National Park",
+        "description": "Kainji National Park is a national park in Niger State and Kwara State, Nigeria. Established in 1978, it covers an area of about 5,341 km2 (2,062 sq mi). The park includes three distinct sectors: a part of the Kainji Lake in which fishing is restricted, the Borgu Game Reserve to the west of the lake, and the Zugurma Game Reserve to the southeast.",
+        "town/city": "Mariga, Borgu",
+        "state": "Niger, Kebbi",
+        "image_links": [
+            "https://en.wikipedia.org/wiki/New_Afrika_Shrine#/media/File:Fela_New_Shrine,_Lagos_02.jpg",
+            "https://en.wikipedia.org/wiki/New_Afrika_Shrine#/media/File:Fela_New_Shrine,_Lagos_03.jpg"
+        ]
     }
+    
+    
 
 
 ]
