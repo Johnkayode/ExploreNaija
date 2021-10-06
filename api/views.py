@@ -13,7 +13,6 @@ from utils.cities import City
 from utils.states import State
 
 import coreapi
-import json
 
 
 
