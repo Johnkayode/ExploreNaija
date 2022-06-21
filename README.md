@@ -51,5 +51,5 @@ Check out the full API docs [here](https://explore-naija.herokuapp.com/v1/docs/)
 | :-------- | :------- | :-------------------------------- |
 | `name` | `string` (query) | Get a particular Nigerian tourist centre by its name(s) |
 | `town` | `string` (query) | Filter the tourist centres by the name of a Nigerian town |
-| `town` | `string` (query) | Filter the tourist centres by the name of a Nigerian state |
+| `state` | `string` (query) | Filter the tourist centres by the name of a Nigerian state |
 
